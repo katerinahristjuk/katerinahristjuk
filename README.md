@@ -1,6 +1,6 @@
 ### Hi there, I'm Kate 👋
 
-- 🔭 I`m switching my career into IT. I have been working as a civil engineer for the last 5 years. 
+- 🔭 I`m switching my career into IT. Previously, I had been working as a civil engineer for 5 years. 
 - 🌱 I have recently graduated from JavaScript Academy.
 - 🥅 You can see my full-stack projects using (NodeJs, Express, React, MongoDB);
 - 👯 I’m looking for a good collaboration.
